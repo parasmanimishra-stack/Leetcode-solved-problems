@@ -8,6 +8,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1052-grumpy-bookstore-owner](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1052-grumpy-bookstore-owner) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,8 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [1052-grumpy-bookstore-owner](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1052-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->
