@@ -25,6 +25,7 @@
 | [0437-path-sum-iii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0437-path-sum-iii) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1302-deepest-leaves-sum) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -32,11 +33,13 @@
 | [0199-binary-tree-right-side-view](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0437-path-sum-iii) |
 | [1302-deepest-leaves-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1302-deepest-leaves-sum) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0199-binary-tree-right-side-view) |
 | [1302-deepest-leaves-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1302-deepest-leaves-sum) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -47,6 +50,7 @@
 | [0437-path-sum-iii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0437-path-sum-iii) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1302-deepest-leaves-sum) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
