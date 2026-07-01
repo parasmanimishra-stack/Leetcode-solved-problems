@@ -25,6 +25,7 @@
 | [0113-path-sum-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0437-path-sum-iii) |
+| [0700-search-in-a-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -50,6 +51,7 @@
 | [0113-path-sum-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0437-path-sum-iii) |
+| [0700-search-in-a-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0209-minimum-size-subarray-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
