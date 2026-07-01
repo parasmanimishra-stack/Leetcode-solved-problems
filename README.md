@@ -20,6 +20,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0113-path-sum-ii) |
@@ -34,6 +35,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -49,6 +51,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0113-path-sum-ii) |
@@ -86,6 +89,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0701-insert-into-a-binary-search-tree) |
