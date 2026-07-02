@@ -32,6 +32,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0437-path-sum-iii) |
+| [0563-binary-tree-tilt](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0563-binary-tree-tilt) |
 | [0669-trim-a-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -50,6 +51,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0437-path-sum-iii) |
+| [0563-binary-tree-tilt](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0563-binary-tree-tilt) |
 | [0669-trim-a-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1302-deepest-leaves-sum) |
@@ -74,6 +76,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0437-path-sum-iii) |
+| [0563-binary-tree-tilt](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0563-binary-tree-tilt) |
 | [0669-trim-a-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0701-insert-into-a-binary-search-tree) |
