@@ -17,6 +17,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1052-grumpy-bookstore-owner) |
+| [1207-unique-number-of-occurrences](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1207-unique-number-of-occurrences](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1207-unique-number-of-occurrences) |
 ## Tree
 |  |
 | ------- |
