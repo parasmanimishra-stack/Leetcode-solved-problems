@@ -18,6 +18,7 @@
 | [1046-last-stone-weight](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1207-unique-number-of-occurrences) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1207-unique-number-of-occurrences) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2094-finding-3-digit-even-numbers) |
 ## Tree
 |  |
@@ -169,6 +171,7 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0973-k-closest-points-to-origin) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Geometry
 |  |
 | ------- |
@@ -202,4 +205,8 @@
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2094-finding-3-digit-even-numbers) |
+## Counting
+|  |
+| ------- |
+| [1814-count-nice-pairs-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1814-count-nice-pairs-in-an-array) |
 <!---LeetCode Topics End-->
