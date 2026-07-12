@@ -33,6 +33,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2094-finding-3-digit-even-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2094-finding-3-digit-even-numbers) |
 ## Tree
 |  |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0389-find-the-difference) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Merge Sort
 |  |
 | ------- |
