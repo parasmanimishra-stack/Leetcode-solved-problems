@@ -20,6 +20,7 @@
 | [1046-last-stone-weight](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1207-unique-number-of-occurrences) |
+| [1550-three-consecutive-odds](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1550-three-consecutive-odds) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2094-finding-3-digit-even-numbers) |
