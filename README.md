@@ -232,6 +232,7 @@
 | [0389-find-the-difference](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0657-robot-return-to-origin) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3019-number-of-changing-keys](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3019-number-of-changing-keys) |
 ## Merge Sort
 |  |
 | ------- |
