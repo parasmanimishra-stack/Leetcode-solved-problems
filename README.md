@@ -151,6 +151,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0682-baseball-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0682-baseball-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -237,6 +238,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0657-robot-return-to-origin) |
 | [1657-determine-if-two-strings-are-close](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1657-determine-if-two-strings-are-close) |
