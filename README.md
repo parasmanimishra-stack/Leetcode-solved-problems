@@ -24,6 +24,7 @@
 | [1550-three-consecutive-odds](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1550-three-consecutive-odds) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -194,6 +195,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1486-xor-operation-in-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Geometry
 |  |
 | ------- |
@@ -253,4 +255,8 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0682-baseball-game) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
