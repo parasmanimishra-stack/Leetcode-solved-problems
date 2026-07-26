@@ -16,6 +16,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0682-baseball-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0973-k-closest-points-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0973-k-closest-points-to-origin) |
@@ -178,6 +179,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1657-determine-if-two-strings-are-close](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [2094-finding-3-digit-even-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2094-finding-3-digit-even-numbers) |
@@ -197,6 +199,7 @@
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1486-xor-operation-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1486-xor-operation-in-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1814-count-nice-pairs-in-an-array) |
