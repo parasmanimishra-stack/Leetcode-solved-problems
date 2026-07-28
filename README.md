@@ -187,6 +187,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [2094-finding-3-digit-even-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2094-finding-3-digit-even-numbers) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -263,6 +264,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3019-number-of-changing-keys](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3019-number-of-changing-keys) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -276,4 +278,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
