@@ -219,6 +219,7 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0198-house-robber) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
