@@ -133,6 +133,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0973-k-closest-points-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0973-k-closest-points-to-origin) |
@@ -236,6 +237,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1486-xor-operation-in-an-array) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
