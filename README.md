@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0046-permutations) |
+| [0063-unique-paths-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0063-unique-paths-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -220,6 +221,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0198-house-robber) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -291,4 +293,8 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
