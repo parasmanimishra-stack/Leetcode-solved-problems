@@ -12,6 +12,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0198-house-robber) |
@@ -241,6 +242,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0063-unique-paths-ii) |
 | [0096-unique-binary-search-trees](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0096-unique-binary-search-trees) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0198-house-robber) |
@@ -317,6 +319,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
