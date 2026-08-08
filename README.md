@@ -246,6 +246,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0198-house-robber) |
+| [0688-knight-probability-in-chessboard](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0688-knight-probability-in-chessboard) |
 | [0877-stone-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0877-stone-game) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
