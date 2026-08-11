@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0063-unique-paths-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -253,6 +254,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0063-unique-paths-ii) |
 | [0096-unique-binary-search-trees](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -337,6 +339,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
