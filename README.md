@@ -9,6 +9,7 @@
 | [0041-first-missing-positive](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0063-unique-paths-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -204,6 +205,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0217-contains-duplicate) |
@@ -383,4 +385,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
