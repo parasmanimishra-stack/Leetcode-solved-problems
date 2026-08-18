@@ -32,6 +32,7 @@
 | [0881-boats-to-save-people](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0881-boats-to-save-people) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0973-k-closest-points-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0973-k-closest-points-to-origin) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1046-last-stone-weight) |
@@ -64,6 +65,7 @@
 | [0454-4sum-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1657-determine-if-two-strings-are-close) |
@@ -172,6 +174,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Binary Search Tree
 |  |
