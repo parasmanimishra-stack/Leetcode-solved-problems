@@ -315,6 +315,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0169-majority-element) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -326,6 +327,7 @@
 | [0242-valid-anagram](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0657-robot-return-to-origin) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -357,6 +359,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0881-boats-to-save-people](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1710-maximum-units-on-a-truck) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
