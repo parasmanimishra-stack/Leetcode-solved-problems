@@ -261,6 +261,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Geometry
 |  |
 | ------- |
