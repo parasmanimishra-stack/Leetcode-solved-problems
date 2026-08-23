@@ -260,6 +260,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1486-xor-operation-in-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1927-sum-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -336,6 +337,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1927-sum-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3019-number-of-changing-keys) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -367,6 +369,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1710-maximum-units-on-a-truck) |
+| [1927-sum-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
@@ -377,6 +380,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1927-sum-game) |
 ## String Matching
 |  |
 | ------- |
