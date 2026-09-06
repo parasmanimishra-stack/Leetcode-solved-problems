@@ -52,6 +52,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2094-finding-3-digit-even-numbers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -186,6 +187,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -244,6 +247,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1710-maximum-units-on-a-truck](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1710-maximum-units-on-a-truck) |
 | [2094-finding-3-digit-even-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2094-finding-3-digit-even-numbers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3731-find-missing-elements) |
@@ -391,6 +395,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1927-sum-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
