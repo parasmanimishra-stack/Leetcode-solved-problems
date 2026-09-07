@@ -71,6 +71,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0389-find-the-difference) |
@@ -270,6 +271,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0877-stone-game) |
@@ -322,6 +324,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0295-find-median-from-data-stream) |
 | [0680-valid-palindrome-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0881-boats-to-save-people) |
@@ -452,4 +455,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0037-sudoku-solver) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
