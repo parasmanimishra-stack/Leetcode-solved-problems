@@ -79,6 +79,7 @@
 | [0219-contains-duplicate-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0525-contiguous-array) |
@@ -188,6 +189,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1052-grumpy-bookstore-owner](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1052-grumpy-bookstore-owner) |
 ## Binary Search
 |  |
@@ -368,6 +370,7 @@
 | [0125-valid-palindrome](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0680-valid-palindrome-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1221-split-a-string-in-balanced-strings) |
