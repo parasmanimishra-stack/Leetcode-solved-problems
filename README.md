@@ -283,6 +283,7 @@
 | [0202-happy-number](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1486-xor-operation-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1486-xor-operation-in-an-array) |
@@ -300,6 +301,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
