@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0041-first-missing-positive) |
@@ -241,6 +242,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -334,6 +336,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0125-valid-palindrome) |
