@@ -238,6 +238,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0138-copy-list-with-random-pointer) |
@@ -358,6 +359,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0050-powx-n) |
 | [2094-finding-3-digit-even-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2094-finding-3-digit-even-numbers) |
 ## Counting
