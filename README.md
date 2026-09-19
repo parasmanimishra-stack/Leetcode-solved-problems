@@ -285,6 +285,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0523-continuous-subarray-sum) |
@@ -326,6 +327,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1486-xor-operation-in-an-array) |
@@ -377,6 +379,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0389-find-the-difference) |
@@ -398,6 +401,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
