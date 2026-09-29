@@ -22,6 +22,7 @@
 | [0169-majority-element](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0217-contains-duplicate) |
@@ -134,6 +135,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0133-clone-graph](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0437-path-sum-iii) |
 | [0563-binary-tree-tilt](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0563-binary-tree-tilt) |
@@ -148,6 +150,7 @@
 | [0112-path-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0733-flood-fill) |
 | [1302-deepest-leaves-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -439,6 +442,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0733-flood-fill) |
 | [2965-find-missing-and-repeated-values](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Game Theory
@@ -474,6 +478,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 ## Quicksort
 |  |
 | ------- |
