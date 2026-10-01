@@ -503,4 +503,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0133-clone-graph) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
