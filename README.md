@@ -245,6 +245,7 @@
 | [0020-valid-parentheses](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0682-baseball-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -404,6 +405,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0680-valid-palindrome-ii) |
+| [0856-score-of-parentheses](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0856-score-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -518,4 +520,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
