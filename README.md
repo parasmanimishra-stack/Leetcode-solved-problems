@@ -246,6 +246,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0682-baseball-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -406,6 +407,7 @@
 | [0657-robot-return-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0680-valid-palindrome-ii) |
 | [0856-score-of-parentheses](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -442,6 +444,7 @@
 | [0455-assign-cookies](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1710-maximum-units-on-a-truck) |
@@ -521,4 +524,5 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
