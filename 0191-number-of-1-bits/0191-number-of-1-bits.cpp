@@ -6,11 +6,7 @@ public:
         while(n != 0){
             if(n & 1) count ++; 
             n >>=1;
-            
-            
-        }
-        return count;
-
-        
+             }
+        return count;    
     }
 };
