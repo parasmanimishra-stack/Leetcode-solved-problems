@@ -46,6 +46,7 @@
 | [0904-fruit-into-baskets](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0994-rotting-oranges) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1046-last-stone-weight) |
@@ -159,6 +160,7 @@
 | [0200-number-of-islands](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0994-rotting-oranges) |
 | [1302-deepest-leaves-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -463,6 +465,7 @@
 | [0200-number-of-islands](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Game Theory
 |  |
