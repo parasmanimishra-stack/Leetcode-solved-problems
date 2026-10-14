@@ -65,6 +65,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2848-points-that-intersect-with-cars](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2848-points-that-intersect-with-cars) |
 | [2965-find-missing-and-repeated-values](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -105,6 +106,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2094-finding-3-digit-even-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2094-finding-3-digit-even-numbers) |
+| [2848-points-that-intersect-with-cars](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2848-points-that-intersect-with-cars) |
 | [2965-find-missing-and-repeated-values](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -236,6 +238,7 @@
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2848-points-that-intersect-with-cars](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2848-points-that-intersect-with-cars) |
 ## Binary Search Tree
 |  |
 | ------- |
