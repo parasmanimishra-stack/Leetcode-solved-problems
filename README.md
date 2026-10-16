@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0037-sudoku-solver) |
@@ -374,6 +375,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -453,6 +455,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
