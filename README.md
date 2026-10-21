@@ -433,6 +433,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3019-number-of-changing-keys) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Merge Sort
 |  |
 | ------- |
