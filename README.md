@@ -38,6 +38,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -220,6 +221,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1052-grumpy-bookstore-owner) |
 ## Binary Search
