@@ -558,4 +558,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
