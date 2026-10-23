@@ -73,6 +73,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3731-find-missing-elements) |
@@ -368,6 +369,7 @@
 | [0191-number-of-1-bits](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1486-xor-operation-in-an-array) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Enumeration
 |  |
