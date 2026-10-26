@@ -47,6 +47,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0929-unique-email-addresses) |
+| [0930-binary-subarrays-with-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0994-rotting-oranges) |
@@ -105,6 +106,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0929-unique-email-addresses) |
+| [0930-binary-subarrays-with-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -226,6 +228,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1052-grumpy-bookstore-owner) |
 ## Binary Search
 |  |
@@ -242,6 +245,7 @@
 | [0523-continuous-subarray-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1109-corporate-flight-bookings) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
