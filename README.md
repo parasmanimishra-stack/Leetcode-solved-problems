@@ -61,6 +61,7 @@
 | [1550-three-consecutive-odds](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1550-three-consecutive-odds) |
 | [1710-maximum-units-on-a-truck](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -361,6 +362,7 @@
 | [0688-knight-probability-in-chessboard](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0688-knight-probability-in-chessboard) |
 | [0877-stone-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0877-stone-game) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
