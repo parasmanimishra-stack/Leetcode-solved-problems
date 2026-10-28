@@ -99,6 +99,7 @@
 | [0242-valid-anagram](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0525-contiguous-array) |
@@ -227,6 +228,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
@@ -435,6 +437,7 @@
 | [0242-valid-anagram](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0680-valid-palindrome-ii) |
