@@ -12,6 +12,7 @@
 | [0041-first-missing-positive](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0063-unique-paths-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -208,6 +209,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0113-path-sum-ii) |
 ## Divide and Conquer
 |  |
@@ -547,6 +549,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
