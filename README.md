@@ -579,5 +579,6 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0175-combine-two-tables) |
 | [0595-big-countries](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
