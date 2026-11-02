@@ -34,6 +34,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -308,6 +309,7 @@
 | [0389-find-the-difference](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0389-find-the-difference) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0973-k-closest-points-to-origin) |
@@ -342,6 +344,7 @@
 | [0067-add-binary](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0202-happy-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0836-rectangle-overlap) |
