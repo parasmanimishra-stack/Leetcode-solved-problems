@@ -32,6 +32,7 @@
 | [0219-contains-duplicate-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0219-contains-duplicate-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -345,6 +346,7 @@
 | [0067-add-binary](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
