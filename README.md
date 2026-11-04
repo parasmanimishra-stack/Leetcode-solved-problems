@@ -79,6 +79,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -125,6 +126,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3731-find-missing-elements) |
@@ -244,6 +246,7 @@
 | [0904-fruit-into-baskets](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1052-grumpy-bookstore-owner) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -337,6 +340,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Quickselect
 |  |
 | ------- |
@@ -366,6 +370,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3871-count-commas-in-range-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3871-count-commas-in-range-ii) |
@@ -389,6 +394,7 @@
 | [0877-stone-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0877-stone-game) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
