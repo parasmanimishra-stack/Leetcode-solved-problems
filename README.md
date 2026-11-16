@@ -79,6 +79,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -246,6 +247,7 @@
 | [0904-fruit-into-baskets](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1052-grumpy-bookstore-owner) |
+| [3364-minimum-positive-sum-subarray](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
@@ -269,6 +271,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2848-points-that-intersect-with-cars](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2848-points-that-intersect-with-cars) |
+| [3364-minimum-positive-sum-subarray](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search Tree
 |  |
 | ------- |
