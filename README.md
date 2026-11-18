@@ -15,6 +15,7 @@
 | [0051-n-queens](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -252,6 +253,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -525,6 +527,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0733-flood-fill) |
