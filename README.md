@@ -477,6 +477,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1927-sum-game) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3019-number-of-changing-keys) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
