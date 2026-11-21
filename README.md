@@ -360,6 +360,7 @@
 | [0067-add-binary](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0202-happy-number) |
+| [0342-power-of-four](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -408,6 +409,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1486-xor-operation-in-an-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -447,6 +449,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0342-power-of-four) |
 | [2094-finding-3-digit-even-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2094-finding-3-digit-even-numbers) |
 ## Counting
 |  |
