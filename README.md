@@ -74,6 +74,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2094-finding-3-digit-even-numbers) |
+| [2293-min-max-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2293-min-max-game) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2848-points-that-intersect-with-cars](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -500,6 +501,7 @@
 | [0067-add-binary](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0682-baseball-game) |
+| [2293-min-max-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2293-min-max-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
 |  |
