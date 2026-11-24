@@ -115,6 +115,7 @@
 | [0525-contiguous-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0763-partition-labels) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0929-unique-email-addresses) |
@@ -438,6 +439,7 @@
 | [0455-assign-cookies](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0881-boats-to-save-people) |
 ## Design
 |  |
@@ -479,6 +481,7 @@
 | [0567-permutation-in-string](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0929-unique-email-addresses) |
@@ -522,6 +525,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
