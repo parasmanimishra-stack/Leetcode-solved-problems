@@ -259,6 +259,7 @@
 | [0074-search-a-2d-matrix](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -636,4 +637,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0207-course-schedule) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
