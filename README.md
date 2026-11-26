@@ -383,6 +383,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -509,6 +510,7 @@
 | [0682-baseball-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/0682-baseball-game) |
 | [2293-min-max-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/2293-min-max-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/parasmanimishra-stack/Leetcode-solved-problems/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
